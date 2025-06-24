@@ -88,6 +88,7 @@ Border detection relies on low standard deviation (<10) in grayscale pixel value
 ## Attachments
 ### Demo video link 
 https://www.loom.com/share/87cd930e5db8443fb5444c046e0ebf03?sid=325ad1bb-0029-48b9-ab1f-ea684f742a80
-### Sample I/O images ![IMG_8](https://github.com/user-attachments/assets/1c02718b-f5d9-4a67-89ba-f3ee91bddbe9)
- ![IMG_8](https://github.com/user-attachments/assets/8f438a23-25b1-407f-bb6d-82170f0bc7f5)
+### Sample I/O images ![IMG_7](https://github.com/user-attachments/assets/fbc197d3-e2a9-49e4-9355-c67c8a8b2bfd)
+![IMG_7](https://github.com/user-attachments/assets/bf2d9048-fe31-484b-9156-8848bf7df28c)
+
 
