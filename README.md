@@ -9,7 +9,7 @@ Wide Format Support: Processes JPG, JPEG, PNG, BMP, and TIFF images.
 Automatic Directory Management: Creates input/output directories as needed.
 
 ## Requirements
-Python 3.x
+Python 3.8 or above
 OpenCV (cv2) - pip install opencv-python
 NumPy - pip install numpy
 
