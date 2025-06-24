@@ -53,7 +53,7 @@ Check console output for processing status and results.
 
 border_detection.py: Detects borders and generates a CSV report.
 border_removal.py: Detects and removes borders, saving cropped images.
-input/: Directory for input images (created automatically).
+input/: Directory for input images.
 output/: Directory for cropped images (created automatically).
 border_detection_report.csv: Output CSV file with border detection results.
 
