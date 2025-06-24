@@ -30,7 +30,7 @@ pip install opencv-python numpy
 
 ## Usage
 
-Place images in the input directory (created automatically if it doesn't exist).
+Place images in the input directory 
 
 Run the scripts:
 
