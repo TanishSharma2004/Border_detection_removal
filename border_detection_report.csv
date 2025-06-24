@@ -1,0 +1,11 @@
+filename,top_border,bottom_border,left_border,right_border,sides_with_border
+IMG_1.jpg,237,237,194,194,top; bottom; left; right
+IMG_10.jpg,49,49,36,37,top; bottom; left; right
+IMG_2.jpg,39,39,0,63,top; bottom; right
+IMG_3.jpg,850,1098,763,800,top; bottom; left; right
+IMG_4.jpg,58,2238,0,0,top; bottom
+IMG_5.jpg,13,1286,0,0,top; bottom
+IMG_6.jpg,35,3248,0,0,top; bottom
+IMG_7.jpg,275,160,0,0,top; bottom
+IMG_8.jpg,65,64,48,49,top; bottom; left; right
+IMG_9.jpg,238,216,0,0,top; bottom
