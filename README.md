@@ -84,3 +84,5 @@ Cropped images saved to 'output' folder
 Ensure images are placed in the input directory before running the scripts.
 The scripts use a threshold of 5 pixels to identify significant borders.
 Border detection relies on low standard deviation (<10) in grayscale pixel values to identify uniform borders.
+
+### Sample I/O images attached
