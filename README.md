@@ -60,7 +60,6 @@ border_detection_report.csv: Output CSV file with border detection results.
 ## Example Output
 ### Border Detection
 Border Detection Script
-==============================
 Processing: image1.jpg
   - Borders detected: top, left
 Processing: image2.png
@@ -72,7 +71,6 @@ image2.png: No borders
 
 ### Border Removal
 Border Removal Script
-==============================
 Processing: image1.jpg
   - Removed borders: top, left
   - Border sizes: {'top': 10, 'bottom': 0, 'left': 15, 'right': 0}
