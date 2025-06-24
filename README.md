@@ -1,4 +1,4 @@
-# Image Border Detection and Removal
+# Border Detection and Removal
 This project provides two Python scripts powered by OpenCV for advanced image border analysis and processing, designed to enhance digital images with precision and efficiency. The Border Detection Script identifies uniform color borders in images from an input directory, measures border sizes on all four sides, and generates a detailed CSV report (border_detection_report.csv) with filenames, border dimensions, and sides with significant borders (>5 pixels). The Border Removal Script detects and crops borders, preserving a 5-pixel content margin, and saves the refined images to an output directory with comprehensive console feedback on removed border metrics. Supporting common image formats (JPG, PNG, BMP, TIFF) and featuring robust directory handling, these scripts offer a seamless solution for automated image optimization.
 
 ## Features
